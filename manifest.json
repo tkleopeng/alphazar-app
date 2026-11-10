@@ -1,0 +1,25 @@
+{
+  "name": "AlphaZar",
+  "short_name": "AlphaZar",
+  "description": "JSE market desk: indices, rand, SENS, news and the week ahead.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0C0D0C",
+  "theme_color": "#0C0D0C",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

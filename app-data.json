@@ -1,0 +1,23 @@
+{
+  "as_of_sast": "Tuesday 10 November 2026, 12:26 SAST",
+  "sens_count": 264,
+  "sens_checks": {
+    "confirmed by two sources": 246,
+    "single source": 18
+  },
+  "news_count": 69,
+  "spine_top40": 92,
+  "spine_as_of": "16:34 SAST",
+  "logo_count": 91,
+  "spark_keys": [
+    "top40",
+    "alsi",
+    "res10",
+    "ind25",
+    "fin15",
+    "usdzar",
+    "gold",
+    "brent"
+  ],
+  "bytes": 1488996
+}
