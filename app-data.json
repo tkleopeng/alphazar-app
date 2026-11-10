@@ -6,8 +6,8 @@
     "single source": 18
   },
   "news_count": 69,
-  "spine_top40": 92,
-  "spine_as_of": "16:34 SAST",
+  "spine_top40": 93,
+  "spine_as_of": "16:38 SAST",
   "logo_count": 91,
   "spark_keys": [
     "top40",
@@ -19,5 +19,5 @@
     "gold",
     "brent"
   ],
-  "bytes": 1488996
+  "bytes": 1489203
 }
