@@ -1,11 +1,11 @@
 {
-  "as_of_sast": "Thursday 19 November 2026, 17:06 SAST",
-  "sens_count": 369,
+  "as_of_sast": "Friday 20 November 2026, 17:06 SAST",
+  "sens_count": 405,
   "sens_checks": {
-    "confirmed by two sources": 339,
-    "single source": 30
+    "confirmed by two sources": 370,
+    "single source": 35
   },
-  "news_count": 121,
+  "news_count": 102,
   "spine_top40": 96,
   "spine_as_of": "17:00 SAST",
   "logo_count": 91,
@@ -19,5 +19,5 @@
     "gold",
     "brent"
   ],
-  "bytes": 1750386
+  "bytes": 1763534
 }
